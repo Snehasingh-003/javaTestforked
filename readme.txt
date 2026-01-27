@@ -14,8 +14,6 @@ Implementing Poll SCM
 
 Trying to implement github hook trigger
 
-Vaishu Fucker
-
 
 
 
